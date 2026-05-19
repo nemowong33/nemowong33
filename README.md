@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nemowong33
+- 👋 Hi, I’m Nemo Wong
 - 👀 I’m interested in AI Agent development, full-stack engineering, advertisement business and AI comic drama industry.
 - 🌱 I’m currently exploring practical solutions & toolchains for AI comic drama, keep polishing Agent engineering capabilities.
 - 💞️ I’m looking to collaborate with like-minded peers on AI creation, full-stack projects and industry experience sharing.
@@ -6,7 +6,7 @@
 
 --- 
 
-- 👋 你好，我是 @nemowong33
+- 👋 你好，我是 Nemo Wong
 - 👀 深耕方向：AI智能体研发、全栈开发、广告业务、AI漫剧赛道
 - 🌱 持续精进：钻研AI漫剧落地方案与实用工具，深耕 Agent 工程体系
 - 💞️ 寻求交流：期待结识同好，一起探讨 AI 相关有趣好玩的想法
