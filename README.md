@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with like-minded peers on AI creation, full-stack projects and industry experience sharing.
 - 📫 How to reach me: nemowong33@gmail.com
 
+--- 
+
 - 👋 你好，我是 @nemowong33
 - 👀 深耕方向：AI智能体研发、全栈开发、广告业务、AI漫剧赛道
 - 🌱 持续精进：钻研AI漫剧落地方案与实用工具，深耕 Agent 工程体系
